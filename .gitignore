@@ -1,0 +1,8 @@
+# ignoring the python cache, which is created at runtime
+__pycache__/
+*.pyc
+# ignoring the pyinstaller settings
+*.spec
+# ignoring pyinstaller automatically generated folders
+dist/
+build/
